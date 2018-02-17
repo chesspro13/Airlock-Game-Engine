@@ -2,7 +2,6 @@
  * Handles the "rendering" for the TEXT BASED FUCKING GAME
  */
 package RenderingEngine;
-
 /**
  *
  * @author Brandon

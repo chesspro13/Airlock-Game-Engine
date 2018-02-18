@@ -17,6 +17,7 @@ public class Renderer {
     public boolean initializeRenderingEngine()
     {
         System.out.println ("Rendering engine initialized");
+        System.out.println("System test");
         return true;
     }
     
